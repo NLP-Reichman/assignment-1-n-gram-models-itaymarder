@@ -1,6 +1,6 @@
 {
   "test_preprocess": {
-    "vocab_length": 0
+    "vocab_length": 269905
   },
   "test_build_lm": {
     "english_2_gram_length": 0,
