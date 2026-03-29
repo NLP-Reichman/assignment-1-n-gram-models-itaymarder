@@ -12,10 +12,10 @@
     "spanish_3_gram_length": 8469
   },
   "test_eval": {
-    "en_on_en": 0,
-    "en_on_fr": 0,
-    "en_on_tl": 0,
-    "en_on_nl": 0
+    "en_on_en": 20.64,
+    "en_on_fr": 16.23,
+    "en_on_tl": 26.28,
+    "en_on_nl": 19.74
   },
   "test_generate": {
     "english_2_gram": "",
