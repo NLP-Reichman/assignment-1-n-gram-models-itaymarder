@@ -18,12 +18,12 @@
     "en_on_nl": 24.78
   },
   "test_generate": {
-    "english_2_gram": "",
-    "english_3_gram": "",
-    "english_4_gram": "",
-    "spanish_2_gram": "",
-    "spanish_3_gram": "",
-    "french_2_gram": "",
-    "french_3_gram": ""
+    "english_2_gram": "I ame the the the the th",
+    "english_3_gram": "I am a see the so much 2",
+    "english_4_gram": "I Love you are the same to",
+    "spanish_2_gram": "Soy a de la de la de la",
+    "spanish_3_gram": "Soy a la con la con la ",
+    "french_2_gram": "Je suis de de de de de de d",
+    "french_3_gram": "Je suis pas de la pas de la"
   }
 }
