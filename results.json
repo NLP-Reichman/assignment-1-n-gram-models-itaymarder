@@ -13,9 +13,9 @@
   },
   "test_eval": {
     "en_on_en": 20.64,
-    "en_on_fr": 16.23,
-    "en_on_tl": 26.28,
-    "en_on_nl": 19.74
+    "en_on_fr": 24.02,
+    "en_on_tl": 34.63,
+    "en_on_nl": 27.98
   },
   "test_generate": {
     "english_2_gram": "",
