@@ -1,12 +1,10 @@
 {
-  "test_preprocess": {
-    "vocab_length": 1804
-  },
+  "test_preprocess": "IsADirectoryError(21, 'Is a directory')\nTraceback (most recent call last):\n  File \"/tmp/ipykernel_3152/1798211811.py\", line 48, in <cell line: 0>\n    cur_res = test()\n              ^^^^^^\n  File \"/tmp/ipykernel_3152/1798211811.py\", line 11, in test_preprocess\n    'vocab_length': len(preprocess()),\n                        ^^^^^^^^^^^^\n  File \"/tmp/ipykernel_3152/2523503548.py\", line 14, in preprocess\n    with open(join(files_path, file), 'r') as f:\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nIsADirectoryError: [Errno 21] Is a directory: '/content/data/data'\n",
   "test_build_lm": {
-    "english_2_gram_length": 0,
-    "english_3_gram_length": 0,
-    "french_3_gram_length": 0,
-    "spanish_3_gram_length": 0
+    "english_2_gram_length": 748,
+    "english_3_gram_length": 8474,
+    "french_3_gram_length": 8506,
+    "spanish_3_gram_length": 8745
   },
   "test_eval": {
     "en_on_en": 0,
